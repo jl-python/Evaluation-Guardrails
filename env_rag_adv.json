@@ -1,0 +1,12 @@
+{
+  "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+  "platform": "Linux-6.6.97+-x86_64-with-glibc2.35",
+  "packages": {
+    "torch": "2.8.0+cu126",
+    "transformers": "4.56.1",
+    "sentence-transformers": "5.1.0",
+    "chromadb": null,
+    "langchain": "0.3.27",
+    "langchain-community": null
+  }
+}

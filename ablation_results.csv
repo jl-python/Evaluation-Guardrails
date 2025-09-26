@@ -1,0 +1,3 @@
+variant,correctness_mean,faithfulness_mean,latency_mean_s
+Baseline,4.666433200863278,0.4444444444444444,9.660392271147835
+With Guardrails,0.013962375073486182,0.0,9.026658746931288
